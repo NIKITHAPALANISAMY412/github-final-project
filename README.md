@@ -6,4 +6,4 @@
     Output
        simple interest = p*t*r
 
-       2023 xyz,Inc
+       2022 xyz,Inc
